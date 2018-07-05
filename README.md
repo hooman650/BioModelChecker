@@ -1,5 +1,5 @@
 # BioModelChecker
-Biological Model Checker (Bio-ModelChecker) is a bounded model checker for parameterization of generalized regulatory networks (Thomas Networks) created by Hooman Sedghamiz at [https://www.rochesterregional.org/research/clinical-systems-biology/](Center for Clinical Systems Biology (CCSB)).
+Biological Model Checker (Bio-ModelChecker) is a bounded model checker for parameterization of generalized regulatory networks (Thomas Networks) created by Hooman Sedghamiz at [Center for Clinical Systems Biology (CCSB)](https://www.rochesterregional.org/research/clinical-systems-biology/).
 Bio-ModelChecker treats the model parametrization problem as a multi-objective optimization inspired from Control Theory and biology. It employs the power of state of the art Constraint Programming in order to efficiently parameterize a regulatory network. 
 Bio-ModelChecker is copyrighted 2018 by Center for Clinical Systems Biology at Rochester General Hospital, Rochester, USA. All rights reserved.
 Bio-ModelChecker is available for research and evaluation purposes only. It can not be used in a commercial environment, particularly as part of a commercial product, without written permission. Bio-ModelChecker is provided as is, without any warranty.
