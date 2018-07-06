@@ -6,7 +6,7 @@ Bio-ModelChecker is copyrighted 2018 by Center for Clinical Systems Biology. All
 
 Bio-ModelChecker is available for research and evaluation purposes only. It can not be used in a commercial environment, particularly as part of a commercial product, without written permission. Bio-ModelChecker is provided as is, without any warranty.
 
-![BioMC building blocks. BioMC employs state of the art solvers such as Google-OR-Tools and Chuffed for constraint solving, SQlite for solutions management and D3 project for the visulazation](BioMCFlow.png =250x)
+![BioMC building blocks. BioMC employs state of the art solvers such as Google-OR-Tools and Chuffed for constraint solving, SQlite for solutions management and D3 project for the visulazation](BioMCFlow.png)
 
 ## Abstract 
 The in Silico study and reverse engineering of regulatory networks has gained in recognition as an insightful tool for the qualitative study of biological mechanisms that underlie a broad range of  complex illness. In the creation of reliable network models, the integration of prior mechanistic knowledge with experimentally observed behavior is hampered by the disparate nature and  widespread sparsity of such measurements. The former challenges conventional regression-based parameter fitting while the latter leads to large sets of highly variable but equally data compliant network models. 
