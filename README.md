@@ -11,4 +11,8 @@ The in Silico study and reverse engineering of regulatory networks has gained in
 BioModelChecker (BioMC) proposes a Constraint Satisfaction (CS) based bounded model checking framework for parameter set identification that readily accommodates partial records and the exponential complexity of this problem. BioMC introduces specific criteria to describe the biological plausibility of competing multi-valued regulatory networks that satisfy all the constraints and formulate model identification as a multi-objective optimization problem. Optimization is directed at  maximizing structural parsimony by mitigating control action selectivity while also favoring increased state transition efficiency and robustness of the network’s dynamic response. 
 
 ## Getting Started
-Please see the ```BioMC-usermanual.pdf``` for a detailed instructions how to install and use BioMC. BioMC already comes with several benchmarks in  ```.json ``` format that could be used to get familiar with the tool.
+### 1 - Download the BioMC-Installer.exe :
+Download the BioMC-Installer.exe from the release tab and the installer would guide you with the next steps
+
+### 2 - Replace 'classpath.txt' and 'jxbrowser':
+Please see the ```BioMC-usermanual.pdf``` for a detailed instructions how to replace ```classpath.txt``` and ```jxbrowser```. BioMC already comes with several benchmarks in  ```.json ``` format that could be used to get familiar with the tool.
