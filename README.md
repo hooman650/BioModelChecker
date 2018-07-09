@@ -18,3 +18,25 @@ Download the BioMC-Installer.exe from the release tab and the installer would gu
 
 ### 2 - Replace 'classpath.txt' and 'jxbrowser':
 Please see the ```BioMC-usermanual.pdf``` for a detailed instructions how to replace ```classpath.txt``` and ```jxbrowser```. BioMC already comes with several benchmarks in  ```.json ``` format that could be used to get familiar with the tool.
+
+## Acknowledgement
+
+### Solvers 
+The BioMC software relies on the amazing technologies and efforts developed in Constraint Satisfaction and Operation Research groups such as:
+
+#### [D61 Decision Sciences - MiniZinc](https://github.com/MiniZinc) 
+
+#### [D61 Decision Sciences - Chuffed Solver](https://github.com/chuffed/chuffed)
+
+#### [Google's Operations Research tools - OR-tools Solver](https://github.com/google/or-tools)
+
+### Visualization
+For visualization, BioMC relies on the following nice libraries:
+
+#### [Mike Bostock - d3](https://github.com/d3/d3)
+
+#### [Pier Morel - Gramm](https://github.com/piermorel/gramm)
+
+
+
+
