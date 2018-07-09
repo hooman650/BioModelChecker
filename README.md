@@ -33,6 +33,8 @@ The BioMC software relies on the amazing technologies and efforts developed in C
 
 #### [Google's Operations Research tools - OR-tools Solver](https://github.com/google/or-tools)
 
+#### [Fondazione Bruno Kessler - OptiMathSat SMT Solver](http://optimathsat.disi.unitn.it/)
+
 ### Visualization
 For visualization, BioMC relies on the following nice libraries:
 
