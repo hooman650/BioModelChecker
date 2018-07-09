@@ -37,6 +37,8 @@ For visualization, BioMC relies on the following nice libraries:
 
 #### [Pier Morel - Gramm](https://github.com/piermorel/gramm)
 
+#### [CytoScape - Cytoscape.js](https://github.com/cytoscape)
+
 
 
 
