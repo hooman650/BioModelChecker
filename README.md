@@ -17,7 +17,7 @@ BioModelChecker (BioMC) proposes a Constraint Satisfaction (CS) based bounded mo
 The current version of BioMC has been only tested on 64bit Windows Operating System. To be used on Unix and MACos one might want to rely on [Oracle Virtual Machine](https://www.virtualbox.org/) for now.
 
 ### 2 - Download the BioMC-Installer.exe :
-Download the BioMC-Installer.exe from the release tab and the installer would guide you with the next steps
+Download the BioMC-Installer.exe from the "release" tab on top of this page and the installer would guide you with the next steps
 
 ### 3 - Replace 'classpath.txt' and 'jxbrowser':
 Please see the ```BioMC-usermanual.pdf``` for a detailed instructions how to replace ```classpath.txt``` and ```jxbrowser```. BioMC already comes with several benchmarks in  ```.json ``` format that could be used to get familiar with the tool.
