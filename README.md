@@ -20,7 +20,7 @@ The current version of BioMC has been only tested on 64bit Windows Operating Sys
 Download the BioMC-Installer.exe from the "release" tab on top of this page and the installer would guide you with the next steps
 
 ### 3 - Replace 'classpath.txt' and 'jxbrowser':
-Please see the ```BioMC-usermanual.pdf``` for a detailed instructions how to replace ```classpath.txt``` and ```jxbrowser```. BioMC already comes with several benchmarks in  ```.json ``` format that could be used to get familiar with the tool.
+Please see the [```BioMC-usermanual.pdf```](BioMC-usermanual.pdf) for a detailed instructions how to replace ```classpath.txt``` and ```jxbrowser```. BioMC already comes with several benchmarks in  ```.json ``` format that could be used to get familiar with the tool.
 
 ## Related Publications:
 [1] H. Sedghamiz, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "Bio-ModelChecker: Using Bounded Constraint Satisfaction to Seamlessly Integrate Observed Behavior with Prior Knowledge of Biological Networks" (Preprint-2018).
