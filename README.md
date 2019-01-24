@@ -23,13 +23,15 @@ Download the BioMC-Installer.exe from the "release" tab on top of this page and 
 Please see the [```BioMC-usermanual.pdf```](BioMC-usermanual.pdf) for a detailed instructions how to replace ```classpath.txt``` and ```jxbrowser```. BioMC already comes with several benchmarks in  ```.json ``` format that could be used to get familiar with the tool.
 
 ## Related Publications:
-[1] H. Sedghamiz, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "Bio-ModelChecker: Using Bounded Constraint Satisfaction to Seamlessly Integrate Observed Behavior with Prior Knowledge of Biological Networks" (Preprint-2018).
+[1] H. Sedghamiz, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "Bio-ModelChecker: Using Bounded Constraint Satisfaction to Seamlessly Integrate Observed Behavior with Prior Knowledge of Biological Networks" (Preprint-2019).
 
-[2] H. Sedghamiz, W. Chen, M. Rice, D. Whitley, G. Broderick. "Selecting Optimal Models Based on Efficiency and Robustness in Multi-valued Biological Networks". [In 2017 IEEE 17th International Conference on Bioinformatics and Bioengineering (BIBE)](https://ieeexplore.ieee.org/document/8251289/).
+[2] H. Sedghamiz, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "Computation of Robust Minimal Intervention Sets in Multi-valued Biological Regulatory Networks" (Preprint-2019).
 
-[3] H. Sedghamiz, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "High-fidelity discrete modeling of the HPA axis: a study of regulatory plasticity in biology". [In BMC Systems Biology 1-12-76, 2018](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0599-1).
+[3] H. Sedghamiz, W. Chen, M. Rice, D. Whitley, G. Broderick. "Selecting Optimal Models Based on Efficiency and Robustness in Multi-valued Biological Networks". [In 2017 IEEE 17th International Conference on Bioinformatics and Bioengineering (BIBE)](https://ieeexplore.ieee.org/document/8251289/).
 
-[4] How text mining is changing the way we tackle chronic disease. [Elsevier Connect, 2017](https://www.elsevier.com/connect/how-text-mining-is-changing-the-way-we-tackle-chronic-disease).
+[4] H. Sedghamiz, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "High-fidelity discrete modeling of the HPA axis: a study of regulatory plasticity in biology". [In BMC Systems Biology 1-12-76, 2018](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0599-1).
+
+[5] How text mining is changing the way we tackle chronic disease. [Elsevier Connect, 2017](https://www.elsevier.com/connect/how-text-mining-is-changing-the-way-we-tackle-chronic-disease).
 
 ## Acknowledgement
 
