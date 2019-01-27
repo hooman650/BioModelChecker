@@ -21,7 +21,7 @@ The multivalued networks approximate the continous concentration level of biolog
 
 The equations below indicate how a typical differential equation that describes the concentration level of an entity can be approximated by discrete values;
 
-<img margin-left="auto" margin-right="auto" src="Derivation.pdf">
+<img margin-left="auto" margin-right="auto" src="Derivation.png">
 
 You might ask how this equation might work in practice (the K value defined in the equation above). The image below shows interactively how the image an entity is defined given its regulators (computer science guys call regulators fan-inns). The index of a K value is determined by accounting for active regulators.
 
