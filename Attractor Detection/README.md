@@ -19,7 +19,7 @@ The multivalued networks approximate the continous concentration level of biolog
 
 ## Transition Function
 
-The equations below indicate how a typical differential equation that describes the concentration level of an entity can be approximated by discrete values;
+The equations below indicate how a typical differential equation that describes the concentration level of an entity can be approximated by discrete values. The **S** function below is simply a threshold function that checks whether the state level of an entity is above or equal to its outgoing edge.
 
 <img margin-left="auto" margin-right="auto" src="Derivation.png">
 
