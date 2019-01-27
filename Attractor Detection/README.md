@@ -15,7 +15,7 @@ A logical regulatory graph is defined as a directed and weighted graph where eac
 
 The multivalued networks approximate the continous concentration level of biological entities in a discrete manner and therefore reduce the simulation search space to a discrete space.
 
-<img margin-left="auto" margin-right="auto" src="BinaryStep.pdf">
+<img margin-left="auto" margin-right="auto" src="DiscreteApp.png">
 
 ## Transition Function
 
