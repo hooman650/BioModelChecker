@@ -13,3 +13,6 @@
   sync, it is a one-to-one mapping. While in the case of async, it is a
   one-to-many mapping.
 - Example: '0000'>'0001','0010'
+
+### Authors
+- The implementation is done by Hooman Sedghamiz and Wenxiang Chen
