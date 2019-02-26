@@ -25,7 +25,7 @@ Please see the [```BioMC-usermanual.pdf```](BioMC-usermanual.pdf) for a detailed
 ## Related Publications:
 [1] H. Sedghamiz, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "Bio-ModelChecker: Using Bounded Constraint Satisfaction to Seamlessly Integrate Observed Behavior with Prior Knowledge of Biological Networks" (Preprint-2019).
 
-[2] H. Sedghamiz, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "Computation of Robust Minimal Intervention Sets in Multi-valued Biological Regulatory Networks" (Preprint-2019).
+[2] H. Sedghamiz, M. Morris, TJK. Craddock, D. Whitley, G. Broderick. "Computation of Robust Minimal Intervention Sets in Multi-valued Biological Regulatory Networks" [In Frontiers in Physiology, section Systems Biology, 2019](https://www.researchgate.net/publication/331328126_Computation_of_Robust_Minimal_Intervention_Sets_in_Multi-valued_Biological_Regulatory_Networks).
 
 [3] H. Sedghamiz, W. Chen, M. Rice, D. Whitley, G. Broderick. "Selecting Optimal Models Based on Efficiency and Robustness in Multi-valued Biological Networks". [In 2017 IEEE 17th International Conference on Bioinformatics and Bioengineering (BIBE)](https://ieeexplore.ieee.org/document/8251289/).
 
