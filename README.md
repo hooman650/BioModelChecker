@@ -1,5 +1,5 @@
 # BioModelChecker
-Biological Model Checker (Bio-MC) is a bounded model checker for parameterization of generalized regulatory networks (Thomas Networks) created by Hooman Sedghamiz at [Center for Clinical Systems Biology (CCSB)](https://www.rochesterregional.org/research/clinical-systems-biology/). For a brief introduction to Thomas Networks see the ![Attractor Detection](Attractor Detection/README.md) directory.
+Biological Model Checker (Bio-MC) is a bounded model checker for parameterization of generalized regulatory networks (Thomas Networks) created by Hooman Sedghamiz at [Center for Clinical Systems Biology (CCSB)](https://www.rochesterregional.org/research/clinical-systems-biology/). For a brief introduction to Thomas Networks see the ![Attractor Detection](https://github.com/hooman650/BioModelChecker/tree/master/Attractor%20Detection/README.md) directory.
 
 Bio-ModelChecker treats the model parametrization problem as a multi-objective optimization inspired from Control Theory and biology. It employs the power of state of the art Constraint Programming in order to efficiently parameterize a regulatory network. 
 Bio-ModelChecker is copyrighted 2018 by Center for Clinical Systems Biology. All rights reserved.
